@@ -1,2 +1,3 @@
-google.com
-yahoo.com
+sd_links:
+  - google.com
+  - yahoo.com
